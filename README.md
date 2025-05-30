@@ -7,6 +7,7 @@
 
 
 ## Merhaba Arkadaşlar İlk Önce Merhaba Biz Schwarz & Schwaze,
+## 10 Stara Yayında
 
 - # Bu Altyapı Nasıl Kullanılır Onu Anlatacağım 💖
 
