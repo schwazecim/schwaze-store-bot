@@ -1,0 +1,33 @@
+{
+  "name": "schwaze-ekomomi-satis-bot",
+  "version": "1.0.0",
+  "description": "schwaze-ekomomi-satis-bot",
+  "main": "schwazecim.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node schwazecim.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js"
+  ],
+  "author": "Schwazecim",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "1.6.3",
+    "@discordjs/rest": "1.7.1",
+    "canvas": "^3.1.0",
+    "croxydb": "^0.0.26",
+    "discord-api-types": "0.37.42",
+    "discord.js": "14.11.0",
+    "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schwazecim"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
