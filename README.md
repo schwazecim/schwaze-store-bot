@@ -6,21 +6,22 @@
 </html>
 
 
-## Merhaba Arkadaşlar İlk Önce Merhaba Biz Schwarz & Schwaze,
-## 10 Stara Yayında
+## Merhaba Arkadaşlar İlk Önce Merhaba Ben Schwaze,
 
 - # Bu Altyapı Nasıl Kullanılır Onu Anlatacağım 💖
 
 - 1: Terminal'e npm i (npm install ne yazacağınız size kalmış)
 
 - 2: Sonra conf.json nasıl kullanılır onu anlatıyorum.
- 
-- 3: Made By **Nex**
 
-https://discord.gg/nexshop
-https://nexshop.site/
+{
+    "token": "Botunuzun Tokeni https://discord.dev/ 'dan alınır ",
+    "clientId": "Botunuzun İD'si",
+    "yetkiliRolId":"İlan vb. şeyleri koyabilecek Yetkili Rol ID",
+    "ownerİd":"Kurucu Yani Sizin ID'nız ",
+    "paparaIban": "Papara İban'ı ",
+    "ininalIban": "İninal İban'ı",
+    "owoHesapId": "OwO Gönderme Bilgileri"
+} 
 
-- 5: Bot MIT Lisans'ı ile Korunmaktadır Altyapı Satılır veya Çalınırsa yasal işlem uygulanacaktır.
-
-
-// NexShop Ekibinden Sevgilerle <3
+- 3: Bot MIT Lisans'ı ile Korunmaktadır Altyapı Satılır veya Çalınırsa yasal işlem uygulanacaktır.
